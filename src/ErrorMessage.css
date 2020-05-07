@@ -1,0 +1,23 @@
+.message
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+html body{
+    height: 100%;
+    width: 100%;
+}
+.pan
+{
+    height: 100%;
+    width: 100%;
+}
+
+.test-arrow
+{
+    left: 10px;
+    top: 10px;
+}
